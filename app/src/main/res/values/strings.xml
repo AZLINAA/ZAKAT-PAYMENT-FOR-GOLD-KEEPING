@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name"><b>Zakat Payment</b></string>
+    <string name="copyright">Copyright &#169; 2022 Anis Azlina</string>
+    <string name="about_text">"ZAKAT is one of Islam's five pillars. ALLAH SWT's wisdom and purpose in prescribing zakat is to donate a tiny portion of the rich's wealth to the poor. Estimating zakat payment for gold keeping is referred to as zakat payment. The user can pick between two options in our apps: gold is kept or gold is worn. The total value of gold, zakat payable, uruf, and total zakat payment will all be determined.
+The benefit of this software is that it allows users to conveniently calculate their zakat payment."</string>
+    <string name="info"><b>INFORMATION</b></string>
+    <string name="name"><b>STUDENT NAME :- </b></string>
+    <string name="anis">ANIS NABILA BINTI AZIZI</string>
+    <string name="ina">NUR AZLINA BINTI ARIFFIN</string>
+    <string name="matric"><b>MATRIC NO :- </b></string>
+    <string name="no1">2021119319</string>
+    <string name="no2">2021190143</string>
+    <string name="linktosite">
+    <a href="https://www.youtube.com/watch?v=h12wNuOher4">Click Here for Our Github</a>
+</string>
+</resources>

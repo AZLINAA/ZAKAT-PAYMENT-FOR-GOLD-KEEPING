@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#D4C1F8"
+    tools:context=".MainActivity">
+
+    <TextView
+        android:id="@+id/textView10"
+        android:layout_width="338dp"
+        android:layout_height="248dp"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="45dip"
+        android:fontFamily="sans-serif-smallcaps"
+        android:text="Welcome To Zakat Payment For Gold Keeping"
+        android:textAlignment="center"
+        android:textColor="#000000"
+        android:textSize="50sp"
+        android:textStyle="bold"
+        tools:layout_editor_absoluteX="36dp"
+        tools:layout_editor_absoluteY="187dp" />
+
+    <ImageView
+        android:id="@+id/imageView7"
+        android:layout_width="407dp"
+        android:layout_height="600dp"
+        android:layout_marginTop="200dip"
+        app:srcCompat="@drawable/zakat5_removebg_preview"
+        tools:layout_editor_absoluteX="28dp"
+        tools:layout_editor_absoluteY="345dp" />
+
+</RelativeLayout>
